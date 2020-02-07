@@ -1,11 +1,11 @@
 # Site settings
-author: Chad Lengefeld
-title: 
+author: Chad L
+title: Lessons learned Coding
 header-img: img/home-bg.png
 email: chadlengefeld@gmail.com
-copyright_name: Chad Lengefeld
+copyright_name: Chad L
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Following a full-stack developer's journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LostnAustin
